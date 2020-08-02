@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dave Milliken -- AllSixes -- @davemilliken0
 
 # THANKS
 
-    <name>
+    Jason Taylor
 
 # TECHNOLOGY COLOPHON
 
