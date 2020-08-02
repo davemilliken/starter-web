@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-(c) Copyright 2020 Dave Milliken
+(c) Copyright 2020 Brain for hire.  All rights reserved.
